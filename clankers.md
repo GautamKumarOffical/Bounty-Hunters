@@ -39,6 +39,7 @@ Automated tracking of all Clankers PR contributors.
 | FJ-CX | 2 | 2026-05-13 |
 | digzrow-coder | 2 | 2026-05-13 |
 | realkoreanbeef | 2 | 2026-05-13 |
+| BerqiaMouad | 2 | 2026-05-13 |
 | woairenzhi | 1 | 2026-05-13 |
 | wislonl | 1 | 2026-05-13 |
 | subhajitlucky | 1 | 2026-05-13 |
@@ -64,4 +65,3 @@ Automated tracking of all Clankers PR contributors.
 | limu6519 | 1 | 2026-05-13 |
 | ErenCankutUYSAL | 1 | 2026-05-13 |
 | canburakyol | 1 | 2026-05-13 |
-| BerqiaMouad | 1 | 2026-05-13 |
