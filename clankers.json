@@ -432,6 +432,12 @@
     "last_pr": "2026-05-15T13:20:58.599Z"
   },
   {
+    "username": "leoliu201204-cmyk",
+    "total_prs": 2,
+    "first_pr": "2026-05-15T14:48:29.658Z",
+    "last_pr": "2026-05-15T14:50:57.220Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -664,11 +670,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-15T14:33:07.792Z",
     "last_pr": "2026-05-15T14:33:07.792Z"
-  },
-  {
-    "username": "leoliu201204-cmyk",
-    "total_prs": 1,
-    "first_pr": "2026-05-15T14:48:29.658Z",
-    "last_pr": "2026-05-15T14:48:29.658Z"
   }
 ]
