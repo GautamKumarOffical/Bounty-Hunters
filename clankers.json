@@ -624,6 +624,12 @@
     "last_pr": "2026-05-17T07:14:47.838Z"
   },
   {
+    "username": "BBNT-1215",
+    "total_prs": 2,
+    "first_pr": "2026-05-18T13:58:45.658Z",
+    "last_pr": "2026-05-18T14:01:30.297Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -958,11 +964,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-18T13:52:17.760Z",
     "last_pr": "2026-05-18T13:52:17.760Z"
-  },
-  {
-    "username": "BBNT-1215",
-    "total_prs": 1,
-    "first_pr": "2026-05-18T13:58:45.658Z",
-    "last_pr": "2026-05-18T13:58:45.658Z"
   }
 ]
