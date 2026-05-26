@@ -1,9 +1,9 @@
 [
   {
     "username": "Gaotax2006",
-    "total_prs": 2191,
+    "total_prs": 2429,
     "first_pr": "2026-05-17T08:21:34.383Z",
-    "last_pr": "2026-05-26T03:26:08.909Z"
+    "last_pr": "2026-05-26T07:00:18.028Z"
   },
   {
     "username": "Sikkra",
@@ -25,9 +25,9 @@
   },
   {
     "username": "H4ck3r-netizen",
-    "total_prs": 80,
+    "total_prs": 83,
     "first_pr": "2026-05-18T05:55:49.424Z",
-    "last_pr": "2026-05-26T03:09:06.182Z"
+    "last_pr": "2026-05-26T05:37:06.299Z"
   },
   {
     "username": "mkcash",
@@ -1576,6 +1576,12 @@
     "total_prs": 1,
     "first_pr": "2026-05-25T23:47:51.160Z",
     "last_pr": "2026-05-25T23:47:51.160Z"
+  },
+  {
+    "username": "caishen-ai",
+    "total_prs": 1,
+    "first_pr": "2026-05-26T06:20:20.575Z",
+    "last_pr": "2026-05-26T06:20:20.575Z"
   },
   {
     "username": "MichisGitIsKing",
