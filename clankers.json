@@ -66,6 +66,12 @@
     "last_pr": "2026-06-06T05:39:28.019Z"
   },
   {
+    "username": "genesisrevelationinc-debug",
+    "total_prs": 83,
+    "first_pr": "2026-05-22T14:02:27.948Z",
+    "last_pr": "2026-06-06T20:55:12.478Z"
+  },
+  {
     "username": "D3CC",
     "total_prs": 74,
     "first_pr": "2026-05-16T11:56:16.051Z",
@@ -76,12 +82,6 @@
     "total_prs": 72,
     "first_pr": "2026-05-26T16:25:52.518Z",
     "last_pr": "2026-05-28T13:12:27.029Z"
-  },
-  {
-    "username": "genesisrevelationinc-debug",
-    "total_prs": 71,
-    "first_pr": "2026-05-22T14:02:27.948Z",
-    "last_pr": "2026-05-29T15:37:50.618Z"
   },
   {
     "username": "BossChaos",
@@ -244,6 +244,12 @@
     "total_prs": 25,
     "first_pr": "2026-05-25T03:45:15.005Z",
     "last_pr": "2026-06-02T03:18:25.298Z"
+  },
+  {
+    "username": "elianguitarra",
+    "total_prs": 24,
+    "first_pr": "2026-06-06T17:09:39.107Z",
+    "last_pr": "2026-06-06T20:53:18.325Z"
   },
   {
     "username": "Xiaoqiang-Huang",
@@ -580,12 +586,6 @@
     "total_prs": 10,
     "first_pr": "2026-05-28T13:23:04.220Z",
     "last_pr": "2026-05-28T13:53:54.171Z"
-  },
-  {
-    "username": "elianguitarra",
-    "total_prs": 10,
-    "first_pr": "2026-06-06T17:09:39.107Z",
-    "last_pr": "2026-06-06T19:04:10.054Z"
   },
   {
     "username": "gacorpoll-ui",
