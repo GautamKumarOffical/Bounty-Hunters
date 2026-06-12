@@ -1380,6 +1380,12 @@
     "last_pr": "2026-06-12T01:53:27.938Z"
   },
   {
+    "username": "exodusubuntu-tech",
+    "total_prs": 2,
+    "first_pr": "2026-06-12T04:56:48.538Z",
+    "last_pr": "2026-06-12T04:56:58.891Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -1966,11 +1972,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-11T17:25:06.093Z",
     "last_pr": "2026-06-11T17:25:06.093Z"
-  },
-  {
-    "username": "exodusubuntu-tech",
-    "total_prs": 1,
-    "first_pr": "2026-06-12T04:56:48.538Z",
-    "last_pr": "2026-06-12T04:56:48.538Z"
   }
 ]
