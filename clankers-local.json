@@ -774,6 +774,12 @@
     "last_pr": "2026-06-12T05:20:06.259Z"
   },
   {
+    "username": "lb1192176991-lab",
+    "total_prs": 6,
+    "first_pr": "2026-06-12T18:45:04.352Z",
+    "last_pr": "2026-06-13T17:46:09.770Z"
+  },
+  {
     "username": "FJ-CX",
     "total_prs": 5,
     "first_pr": "2026-05-13T15:11:20Z",
@@ -892,12 +898,6 @@
     "total_prs": 5,
     "first_pr": "2026-05-30T07:34:05.591Z",
     "last_pr": "2026-06-02T07:33:16.776Z"
-  },
-  {
-    "username": "lb1192176991-lab",
-    "total_prs": 5,
-    "first_pr": "2026-06-12T18:45:04.352Z",
-    "last_pr": "2026-06-13T17:45:33.482Z"
   },
   {
     "username": "spqrcode",
