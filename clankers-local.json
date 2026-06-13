@@ -1416,6 +1416,12 @@
     "last_pr": "2026-06-12T22:58:04.891Z"
   },
   {
+    "username": "Ferns1992",
+    "total_prs": 2,
+    "first_pr": "2026-06-13T10:18:27.218Z",
+    "last_pr": "2026-06-13T10:43:47.882Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2020,11 +2026,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-12T15:40:00.707Z",
     "last_pr": "2026-06-12T15:40:00.707Z"
-  },
-  {
-    "username": "Ferns1992",
-    "total_prs": 1,
-    "first_pr": "2026-06-13T10:18:27.218Z",
-    "last_pr": "2026-06-13T10:18:27.218Z"
   }
 ]
