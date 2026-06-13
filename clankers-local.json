@@ -894,6 +894,12 @@
     "last_pr": "2026-06-02T07:33:16.776Z"
   },
   {
+    "username": "lb1192176991-lab",
+    "total_prs": 5,
+    "first_pr": "2026-06-12T18:45:04.352Z",
+    "last_pr": "2026-06-13T17:45:33.482Z"
+  },
+  {
     "username": "spqrcode",
     "total_prs": 4,
     "first_pr": "2026-05-14T12:12:04.319Z",
@@ -994,12 +1000,6 @@
     "total_prs": 4,
     "first_pr": "2026-06-12T22:30:16.235Z",
     "last_pr": "2026-06-13T15:39:53.926Z"
-  },
-  {
-    "username": "lb1192176991-lab",
-    "total_prs": 4,
-    "first_pr": "2026-06-12T18:45:04.352Z",
-    "last_pr": "2026-06-13T17:43:32.640Z"
   },
   {
     "username": "AidenPeerce",
