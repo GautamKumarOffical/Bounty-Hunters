@@ -1428,6 +1428,12 @@
     "last_pr": "2026-06-13T10:43:47.882Z"
   },
   {
+    "username": "Dusheh",
+    "total_prs": 2,
+    "first_pr": "2026-06-14T12:55:30.821Z",
+    "last_pr": "2026-06-15T04:53:07.314Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2038,11 +2044,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-14T10:24:21.570Z",
     "last_pr": "2026-06-14T10:24:21.570Z"
-  },
-  {
-    "username": "Dusheh",
-    "total_prs": 1,
-    "first_pr": "2026-06-14T12:55:30.821Z",
-    "last_pr": "2026-06-14T12:55:30.821Z"
   }
 ]
