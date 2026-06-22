@@ -44,12 +44,18 @@ contract StakingVault is ReentrancyGuard {
         require(balances[msg.sender] >= amount, "Insufficient balance");
         _updateReward(msg.sender);
 
-        // State update before external call — safe from reentrancy
-        balances[msg.sender] -= amount;
+        uint256 reward = rewards[msg.sender];
+        rewards[msg.sender] = 0;
+        balances[msg.sender] = 0;
         totalStaked -= amount;
 
-        (bool success, ) = payable(msg.sender).call{value: amount}("");
-        require(success, "Transfer failed");
+        if (reward > 0) {
+            (bool success, ) = payable(msg.sender).call{value: amount + reward}("");
+            require(success, "Transfer failed");
+        } else {
+            (bool success, ) = payable(msg.sender).call{value: amount}("");
+            require(success, "Transfer failed");
+        }
 
         emit Withdrawn(msg.sender, amount);
     }
@@ -59,7 +65,6 @@ contract StakingVault is ReentrancyGuard {
         uint256 reward = rewards[msg.sender];
         require(reward > 0, "No rewards");
 
-        // State update before external call — safe from reentrancy
         rewards[msg.sender] = 0;
 
         (bool success, ) = payable(msg.sender).call{value: reward}("");
